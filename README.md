@@ -1,4 +1,4 @@
-# ARD-KMeans-
+# ARD-KMeanspp
 ARD-KMeans++ is an enhanced centroid initialization strategy for the K-Means clustering algorithm.
 It extends the standard KMeans++ initializer with a local density–based refinement step designed to improve stability and cluster quality on uneven, imbalanced, and elongated datasets.
 
